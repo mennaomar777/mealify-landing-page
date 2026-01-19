@@ -3,7 +3,7 @@
 A fully responsive restaurant landing page built using **HTML5 & CSS3**.  
 The project focuses on clean layout structure, modern CSS techniques, accessibility, and performance optimization.
 
-🔗 **Live Demo:** https://your-live-demo-link  
+🔗 **Live Demo:** https://mennaomar777.github.io/mealify-landing-page/  
 ---
 
 ## ✨ Features
